@@ -7,15 +7,15 @@ public static void main(String[] str)
     int a=sc.nextInt();
     if(a>0)
         {
-        System.out.print("positive");
+        System.out.print("Positive");
         }
             if(a<0)
             {
-                System.out.print("negative");
+                System.out.print("Negative");
             }
         if(a==0)
         {
-        System.out.print("zero");
+        System.out.print("Zero");
         }
     }
 }
